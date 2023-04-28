@@ -1,2 +1,2 @@
-# fullcycle-desafio-docker-go
-Obtém o resultado: "Full Cycle Rocks!!", ao executar código em go em docker
+# Imagem
+docker pull renatohossotani/full-cycle-desafio-docker-go:latest
